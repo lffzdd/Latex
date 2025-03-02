@@ -1,5 +1,15 @@
 %hello_world.tex
 \documentclass{article}
+
+% 图形支持
+\usepackage{graphicx}
+%\includegraphics{hello-world.png}
+\DeclareGraphicsExtensions{.eps,.pdf,.png,.jpg}
+\DeclareGraphicsRule{*}{eps}{*}{} % 作用是将所有的图片都当做eps处理
+\graphicspath{{./images/}}
+% 绘图
+\usepackage{PSTricks}
+
 \begin{document}
 Hello, World!
 \end{document}
