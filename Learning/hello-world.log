@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.8.20)  26 FEB 2025 19:43
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.8.20)  13 MAR 2025 21:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (c:/ASoftware/texlive/2024/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count184
 \c@section=\count185
@@ -23,6 +23,14 @@ File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-02-20 L3 programming layer (loader) 
+
 (c:/ASoftware/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2024-02-20 L3 backend support: XeTeX
 \g__graphics_track_int=\count192
@@ -30,47 +38,547 @@ File: l3backend-xetex.def 2024-02-20 L3 backend support: XeTeX
 \g__pdf_backend_object_int=\count193
 \g__pdf_backend_annotation_int=\count194
 \g__pdf_backend_link_int=\count195
+))
+Package: xparse 2024-02-18 L3 Experimental document command parser
 )
-No file hello-world.aux.
+Package: fontspec 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
+ (c:/ASoftware/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count196
+\l__fontspec_language_int=\count197
+\l__fontspec_strnum_int=\count198
+\l__fontspec_tmp_int=\count199
+\l__fontspec_tmpa_int=\count266
+\l__fontspec_tmpb_int=\count267
+\l__fontspec_tmpc_int=\count268
+\l__fontspec_em_int=\count269
+\l__fontspec_emdef_int=\count270
+\l__fontspec_strong_int=\count271
+\l__fontspec_strongdef_int=\count272
+\l__fontspec_tmpa_dim=\dimen141
+\l__fontspec_tmpb_dim=\dimen142
+\l__fontspec_tmpc_dim=\dimen143
+
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+
+Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+
+
+Package fontspec Info: Could not resolve font "Tahoma/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'Tahoma(0)' created for font 'Tahoma' with
+(fontspec)             options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Tahoma/OT:script=latn;language=dflt;mapping=tex-text
+;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Tahoma/B/OT:script=latn;language=dflt;mapping=tex-te
+xt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Tahoma/BI/OT:script=latn;language=dflt;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+(c:/ASoftware/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+
+LaTeX Warning: You have requested package `xecjk',
+               but the package provides `xeCJK'.
+
+Package: xeCJK 2022/08/05 v3.9.1 Typesetting CJK scripts with XeLaTeX
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2022/07/14 v2.5.10 Document and package hooks (CTEX)
+)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.
+sty
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate-
+2023-10-10.sty
+Package: xtemplate 2023-10-10 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen144
+\l__xtemplate_tmp_int=\count273
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip50
+))
+\l__xeCJK_tmp_int=\count274
+\l__xeCJK_tmp_box=\box52
+\l__xeCJK_tmp_dim=\dimen145
+\l__xeCJK_tmp_skip=\skip51
+\g__xeCJK_space_factor_int=\count275
+\l__xeCJK_begin_int=\count276
+\l__xeCJK_end_int=\count277
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip52
+\c__xeCJK_none_node=\count278
+\g__xeCJK_node_int=\count279
+\c__xeCJK_CJK_node_dim=\dimen146
+\c__xeCJK_CJK-space_node_dim=\dimen147
+\c__xeCJK_default_node_dim=\dimen148
+\c__xeCJK_CJK-widow_node_dim=\dimen149
+\c__xeCJK_normalspace_node_dim=\dimen150
+\c__xeCJK_default-space_node_skip=\skip53
+\l__xeCJK_ccglue_skip=\skip54
+\l__xeCJK_ecglue_skip=\skip55
+\l__xeCJK_punct_kern_skip=\skip56
+\l__xeCJK_indent_box=\box53
+\l__xeCJK_last_penalty_int=\count280
+\l__xeCJK_last_bound_dim=\dimen151
+\l__xeCJK_last_kern_dim=\dimen152
+\l__xeCJK_widow_penalty_int=\count281
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2396.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen153
+\l__xeCJK_mixed_punct_width_dim=\dimen154
+\l__xeCJK_middle_punct_width_dim=\dimen155
+\l__xeCJK_fixed_margin_width_dim=\dimen156
+\l__xeCJK_mixed_margin_width_dim=\dimen157
+\l__xeCJK_middle_margin_width_dim=\dimen158
+\l__xeCJK_bound_punct_width_dim=\dimen159
+\l__xeCJK_bound_margin_width_dim=\dimen160
+\l__xeCJK_margin_minimum_dim=\dimen161
+\l__xeCJK_kerning_total_width_dim=\dimen162
+\l__xeCJK_same_align_margin_dim=\dimen163
+\l__xeCJK_different_align_margin_dim=\dimen164
+\l__xeCJK_kerning_margin_width_dim=\dimen165
+\l__xeCJK_kerning_margin_minimum_dim=\dimen166
+\l__xeCJK_bound_dim=\dimen167
+\l__xeCJK_reverse_bound_dim=\dimen168
+\l__xeCJK_margin_dim=\dimen169
+\l__xeCJK_minimum_bound_dim=\dimen170
+\l__xeCJK_kerning_margin_dim=\dimen171
+\g__xeCJK_family_int=\count282
+\l__xeCJK_fam_int=\count283
+\g__xeCJK_fam_allocation_int=\count284
+\l__xeCJK_verb_case_int=\count285
+\l__xeCJK_verb_exspace_skip=\skip57
+
+(c:/ASoftware/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
+))
+
+Package fontspec Info: Could not resolve font "SimSun/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimSun/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "SimSun/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
+(fontspec)             options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"SimSun/OT:script=hani;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen172
+\Gin@req@width=\dimen173
+)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/pstricks/pstricks.sty
+
+LaTeX Warning: You have requested package `PSTricks',
+               but the package provides `pstricks'.
+
+Package: pstricks 2024/02/02 v0.75 LaTeX wrapper for `PSTricks' (RN,HV)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count286
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)))
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pstricks/pstricks.tex
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.06, 2020/11/20 (hv)
+\pstFP@xs=\count287
+\pstFP@xia=\count288
+\pstFP@xib=\count289
+\pstFP@xfa=\count290
+\pstFP@xfb=\count291
+\pstFP@rega=\count292
+\pstFP@regb=\count293
+\pstFP@regs=\count294
+\pstFP@times=\count295
+)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.
+tex
+\pgfutil@everybye=\toks20
+\pgfutil@tempdima=\dimen174
+\pgfutil@tempdimb=\dimen175
+)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.d
+ef
+\pgfutil@abb=\box54
+)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.te
+x
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
+
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryf
+iltered.code.tex
+\pgfkeys@tmptoks=\toks23
+)))
+(c:/ASoftware/texlive/2024/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgf@x=\dimen176
+\pgf@xa=\dimen177
+\pgf@xb=\dimen178
+\pgf@xc=\dimen179
+\pgf@y=\dimen180
+\pgf@ya=\dimen181
+\pgf@yb=\dimen182
+\pgf@yc=\dimen183
+\c@pgf@counta=\count296
+\c@pgf@countb=\count297
+\c@pgf@countc=\count298
+\c@pgf@countd=\count299
+)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.t
+ex
+\pgfmath@dimen=\dimen184
+\pgfmath@count=\count300
+\pgfmath@box=\box55
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.cod
+e.tex)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.bas
+ic.code.tex)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.tri
+gonometric.code.tex)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.ran
+dom.code.tex)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.com
+parison.code.tex)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.bas
+e.code.tex)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rou
+nd.code.tex)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.mis
+c.code.tex)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.int
+egerarithmetics.code.tex)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+)
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.te
+x
+\c@pgfmathroundto@lastzeros=\count301
+)))
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen185
+\pgffor@skip=\dimen186
+\pgffor@stack=\toks27
+\pgffor@toks=\toks28
+))
+\psLoopIndex=\count302
+
+`PSTricks' v3.19c  <2024/02/02> (tvz,hv)
+\pst@dima=\dimen187
+\pst@dimb=\dimen188
+\pst@dimc=\dimen189
+\pst@dimd=\dimen190
+\pst@dimg=\dimen191
+\pst@dimh=\dimen192
+\pst@dimm=\dimen193
+\pst@dimn=\dimen194
+\pst@dimo=\dimen195
+\pst@dimp=\dimen196
+\pst@hbox=\box56
+\pst@ibox=\box57
+\pst@boxg=\box58
+\pst@cnta=\count303
+\pst@cntb=\count304
+\pst@cntc=\count305
+\pst@cntd=\count306
+\pst@cntg=\count307
+\pst@cnth=\count308
+\pst@cntm=\count309
+\pst@cntn=\count310
+\pst@cnto=\count311
+\pst@cntp=\count312
+\@zero=\count313
+\pst@toks=\toks29
+--- We are running latex or xelatex ---
+(c:/ASoftware/texlive/2024/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg
+))
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pstricks/pstricks-color.tex)
+\psunit=\dimen197
+\psxunit=\dimen198
+\psyunit=\dimen199
+\pst@C@@rType=\count314
+\pslinewidth=\dimen256
+\psk@startLW=\dimen257
+\psk@endLW=\dimen258
+
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pstricks/pstricks-arrows.tex
+\pshooklength=\dimen259
+\pshookwidth=\dimen260
+)
+\pst@customdefs=\toks30
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pstricks/pstricks-dots.tex)
+\pslinearc=\dimen261
+\pst@symbolStep=\dimen262
+\pst@symbolWidth=\dimen263
+\pst@symbolLinewidth=\dimen264
+\everypsbox=\toks31
+\psframesep=\dimen265
+\pslabelsep=\dimen266
+\sh@wgridXunit=\dimen267
+\sh@wgridYunit=\dimen268
+\pst@shift=\dimen269
+\ps@imagectr=\count315
+
+(c:/ASoftware/texlive/2024/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg
+Using PSTricks configuration for LaTeX+dvipdfmx
+)))
+File: pstricks.tex 2024/02/02 v3.19c `PSTricks' (tvz,hv)
+ (c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pstricks/pst-fp.tex
+`pst-fp' v0.06, 2020/11/20 (hv))
+File: pst-fp.tex 2020/11/20 v0.06 `PST-fp' (hv)
+
+>>> Loading XeTeX special macros
+(c:/ASoftware/texlive/2024/texmf-dist/tex/generic/pstricks/pstricks-xetex.def))
+(./hello-world.aux)
 \openout1 = `hello-world.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
+5.
+
 (c:/ASoftware/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
-LaTeX Font Info:    ... okay on input line 3.
- [1
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
 
-]
-(./hello-world.aux)
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 45.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 45.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 45.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 45.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 45.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 45.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 45.
+LaTeX Font Info:    Redeclaring math accent \check on input line 45.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 45.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 45.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 45.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 45.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 45.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 4
+5.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 45.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
+45.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
+input line 45.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
+ 45.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
+45.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/Tahoma(0)/m/n on input line 45.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 45.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
+input line 45.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
+e 45.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/Tahoma(0)/b/n on input line 45.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 45.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 49.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 49.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 49.
+
+
+LaTeX Font Warning: Font shape `TU/SimSun(0)/b/n' undefined
+(Font)              using `TU/SimSun(0)/m/n' instead on input line 52.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 60.
+[1
+
+] [2] (./hello-world.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-02-20>
+L3 programming layer <2022/08/05>
  ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
  ) 
 Here is how much of TeX's memory you used:
- 458 strings out of 474773
- 9597 string characters out of 5756839
- 1917842 words of memory out of 5000000
- 22692 multiletter control sequences out of 15000+600000
- 558077 words of font info for 37 fonts, out of 8000000 for 9000
+ 12838 strings out of 474773
+ 306286 string characters out of 5756839
+ 1923842 words of memory out of 5000000
+ 34805 multiletter control sequences out of 15000+600000
+ 562543 words of font info for 83 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 35i,5n,50p,150b,109s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,6n,93p,398b,242s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on hello-world.pdf (1 page).
+Output written on hello-world.pdf (2 pages).

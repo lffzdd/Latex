@@ -1,5 +1,23 @@
-%hello_world.tex
-\documentclass{article}
+%!TEX encoding = UTF-8 Unicode
+%!TEX program = xelatex
+\documentclass[11pt]{article}
+
+% 段落和间距
+\usepackage{indentfirst} % 使得第一行也首行缩进
+\setlength{\parindent}{2em} % 设置首行缩进变量为2em
+\setlength{\parskip}{1.5\baselineskip}  % 段间距
+% 增加长度可以\addtolength命令,设置为1.5行可以用1.5\baselineskip,定义新长度变量可以用\newlength{}{}
+\linespread{2} % 设置行距为1.3倍
+
+% 字体
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\setsansfont{Tahoma}
+\usepackage{xecjk}
+\setCJKmainfont{SimSun}
+\setCJKsansfont{SimHei}
+\setCJKmonofont{FangSong}
+
 
 % 图形支持
 \usepackage{graphicx}
@@ -7,9 +25,43 @@
 \DeclareGraphicsExtensions{.eps,.pdf,.png,.jpg}
 \DeclareGraphicsRule{*}{eps}{*}{} % 作用是将所有的图片都当做eps处理
 \graphicspath{{./images/}}
+
 % 绘图
 \usepackage{PSTricks}
+\usepackage{xspace}
+
+\renewcommand{\thesection}{第 \arabic{section} 部分}
+\renewcommand{\thesubsection}{第 \arabic{section}.\arabic{subsection} 部分}
+
+%\newcommand{\HL}{Hello, \LaTeX.}
+%\newcommand{\WhoLove}[1]{#1 love \LaTeX.}
+%\newcommand{\WLW}[2]{#1 love #2.}
+
+\def\HL{Hello, \LaTeX.\xspace}
+\def\WhoLove#1{#1 love \LaTeX.}
+\def\WLW#1#2{#1 love #2.}
+
+
 
 \begin{document}
-Hello, World!
+    \title{title命令}
+    \author{author命令}
+    \date{\today}
+    \maketitle
+
+
+    \section{一}
+    第一段\\阿松大色的
+
+    第二段
+
+    \subsection{subs- -- ---}
+
+    -- World --- LaTeX.
+    \HL
+
+    \WhoLove{I}
+
+    \WLW{I}{\LaTeX}
+
 \end{document}

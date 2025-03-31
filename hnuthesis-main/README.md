@@ -51,7 +51,7 @@
 4. 编译主版本：
 
    ```bash
-   latexmk -xelatex -shell-escape main.tex
+   latexmk -xelatex -shell-escape main_bak.tex
    ```
 
    或者在 vscode 下安装 [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) 插件后 _complie on save_（本项目的 `.vscode/settings.json` 已经对其做了配置）。
