@@ -265,30 +265,58 @@ Arya, D.; Maeda, H.; Ghosh, S.K.; Toshniwal, D.; Sekimoto, Y.
 \newblock {\em Data in Brief} {\bf 2021}, {\em 36},~107133.
 \newblock {\url{https://doi.org/https://doi.org/10.1016/j.dib.2021.107133}}.
 
-\bibitem[Chen et~al.(2023)Chen, Wang, Wang, Lin, Jia, Lin, Liu, and
-  Chen]{chen2023research}
-Chen, Z.; Wang, D.; Wang, Y.; Lin, S.; Jia, H.; Lin, P.; Liu, Y.; Chen, L.
-\newblock Research and Implementation of Road Damage Detection Algorithm Based
-  on Object Detection Network.
-\newblock In Proceedings of the 2023 4th International Seminar on Artificial
-  Intelligence, Networking and Information Technology (AINIT),  2023, pp.
-  446--450.
-\newblock {\url{https://doi.org/10.1109/AINIT59027.2023.10212930}}.
+\bibitem[Mandal et~al.(2020)Mandal, Mussah, and Adu-Gyamfi]{Mandal2020deep}
+Mandal, V.; Mussah, A.R.; Adu-Gyamfi, Y.
+\newblock Deep Learning Frameworks for Pavement Distress Classification: A
+  Comparative Analysis.
+\newblock In Proceedings of the 2020 IEEE International Conference on Big Data
+  (Big Data),  2020, pp. 5577--5583.
+\newblock {\url{https://doi.org/10.1109/BigData50022.2020.9378047}}.
 
-\bibitem[Hasan et~al.(2022)Hasan, Sakib, and Deb]{hasan2022road}
-Hasan, M.M.; Sakib, S.; Deb, K.
-\newblock Road Damage Detection and Classification using Deep Neural Network.
-\newblock In Proceedings of the 2022 4th International Conference on
-  Electrical, Computer \& Telecommunication Engineering (ICECTE),  2022, pp.
-  1--6.
-\newblock {\url{https://doi.org/10.1109/ICECTE57896.2022.10114508}}.
+\bibitem[Duan et~al.(2019)Duan, Bai, Xie, Qi, Huang, and Tian]{Duan_2019_ICCV}
+Duan, K.; Bai, S.; Xie, L.; Qi, H.; Huang, Q.; Tian, Q.
+\newblock CenterNet: Keypoint Triplets for Object Detection.
+\newblock In Proceedings of the Proceedings of the IEEE/CVF International
+  Conference on Computer Vision (ICCV),  October 2019, pp. 6569--6578.
 
-\bibitem[Wu et~al.(2024)Wu, Li, Sun, Zhao, Bai, and Na]{wu2024utilize}
-Wu, Z.; Li, Z.; Sun, X.; Zhao, R.; Bai, Y.; Na, J.
-\newblock Utilize Data Augmentation and Flexi Corner Block for Road Damage
+\bibitem[Tan et~al.(2020)Tan, Pang, and Le]{Tan_2020_CVPR}
+Tan, M.; Pang, R.; Le, Q.V.
+\newblock EfficientDet: Scalable and Efficient Object Detection.
+\newblock In Proceedings of the Proceedings of the IEEE/CVF Conference on
+  Computer Vision and Pattern Recognition (CVPR),  June 2020, pp. 10781--10790.
+
+\bibitem[Naddaf-Sh et~al.(2020)Naddaf-Sh, Naddaf-Sh, Kashani, and
+  Zargarzadeh]{Naddaf-Sh2020efficient}
+Naddaf-Sh, S.; Naddaf-Sh, M.M.; Kashani, A.R.; Zargarzadeh, H.
+\newblock An Efficient and Scalable Deep Learning Approach for Road Damage
   Detection.
-\newblock {\em Research Square} {\bf 2024}.
-\newblock {\url{https://doi.org/10.21203/rs.3.rs-4570475/v1}}.
+\newblock In Proceedings of the 2020 IEEE International Conference on Big Data
+  (Big Data),  2020, pp. 5602--5608.
+\newblock {\url{https://doi.org/10.1109/BigData50022.2020.9377751}}.
+
+\bibitem[Pham et~al.(2020)Pham, Pham, and Dang]{pham2020road}
+Pham, V.; Pham, C.; Dang, T.
+\newblock Road Damage Detection and Classification with Detectron2 and Faster
+  R-CNN.
+\newblock In Proceedings of the 2020 IEEE International Conference on Big Data
+  (Big Data),  2020, pp. 5592--5601.
+\newblock {\url{https://doi.org/10.1109/BigData50022.2020.9378027}}.
+
+\bibitem[Cao et~al.(2020)Cao, Tran, Nguyen, and Chang]{cao2020survey}
+Cao, M.T.; Tran, Q.V.; Nguyen, N.M.; Chang, K.T.
+\newblock Survey on performance of deep learning models for detecting road
+  damages using multiple dashcam image resources.
+\newblock {\em Advanced Engineering Informatics} {\bf 2020}, {\em 46},~101182.
+\newblock {\url{https://doi.org/https://doi.org/10.1016/j.aei.2020.101182}}.
+
+\bibitem[Nienaber et~al.(2015)Nienaber, Kroon, and
+  Booysen]{nienaber2015comparison}
+Nienaber, S.; Kroon, R.; Booysen, M.
+\newblock A Comparison of Low-Cost Monocular Vision Techniques for Pothole
+  Distance Estimation.
+\newblock In Proceedings of the 2015 IEEE Symposium Series on Computational
+  Intelligence,  2015, pp. 419--426.
+\newblock {\url{https://doi.org/10.1109/SSCI.2015.69}}.
 
 \bibitem[Shim et~al.(2021)Shim, Kim, Lee, and Cho]{shim2021road}
 Shim, S.; Kim, J.; Lee, S.W.; Cho, G.C.
@@ -341,6 +369,14 @@ Rakshitha, R.; Srinath, S.; Kumar, N.V.; Rashmi, S.; Poornima, B.
   Detection.
 \newblock In Proceedings of the International Conference on Advanced
   Communications and Machine Intelligence. Springer,  2024, pp. 155--165.
+
+\bibitem[Arya et~al.(2022)Arya, Maeda, Ghosh, Toshniwal, and
+  Sekimoto]{arya2022rdd2022}
+Arya, D.; Maeda, H.; Ghosh, S.K.; Toshniwal, D.; Sekimoto, Y.
+\newblock RDD2022: A multi-national image dataset for automatic Road Damage
+  Detection,  2022,  \href{http://arxiv.org/abs/2209.08538}{{\normalfont
+  [arXiv:cs.CV/2209.08538]}}.
+\newblock {\url{https://doi.org/10.48550/arXiv.2209.08538}}.
 
 \bibitem[Arya et~al.(2021)Arya, Maeda, Ghosh, Toshniwal, Mraz, Kashiyama, and
   Sekimoto]{arya2021deep}
